@@ -8,7 +8,7 @@ Passioné par le potentiel des technologies web, je tente d'apporter des solutio
 
 Plateforme de gestion de commerces éphèmères (Bourse au ski, bourse au jouet, etc...)
 
-Publique cible : `Association`, `société sportive`
+Publique cible : `Association`, `Société sportive`
 
 - Proposition des articles par les particuliers avant l'évènement
 - Gestion des rôles caissier et commercant
