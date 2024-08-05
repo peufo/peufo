@@ -1,10 +1,10 @@
-### He salut 👋
+## He salut 👋
 
 Passioné par le potentiel des technologies web, je tente d'apporter des solutions gratuite et open source à des problèmes qui font sens.
 
-### Projets en maintenance
+## Projets en maintenance
 
-#### [Troc.io](https://troc.io)
+### [Troc.io](https://troc.io)
 
 Plateforme de gestion de commerces éphèmères (Bourse au ski, bourse au jouet, etc...)
 
@@ -16,7 +16,7 @@ Publique cible : `Association`, `société sportive`
 - Interface de caisse simple et complette (dépot, retrait, achat)
 
 
-#### [Benev.io](https://benev.io)
+### [Benev.io](https://benev.io)
 
 Plateforme de gestion de bénévole
 
