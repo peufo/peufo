@@ -39,6 +39,6 @@ Publique cible : `Festival`, `Manifestation`, `Évènement sportif`
 - Création d'un espace personnalisable dédié à l'évènement
 - Plannification des secteurs et des périodes de travail
 - Construction libre du formulaire d'adhésion
-- Possiblité pour les membres de s'inscrire au même au shift désiré
+- Possiblité pour les membres de s'inscrire eux-même aux shifts désirés
 - Validation et suivi des inscriptions par les responsables de secteur
 
