@@ -6,7 +6,7 @@ Passionné par le potentiel des technologies web, je tente d'apporter des soluti
 
 ### [Troc.io](https://troc.io)
 
-Plateforme de gestion de commerces éphèmères (Bourse au ski, bourse au jouet, etc...)
+Plateforme de gestion de commerces éphèmères (bourse au ski, bourse au jouet, etc...)
 
 Publique cible : `Association`, `Société sportive`
 
