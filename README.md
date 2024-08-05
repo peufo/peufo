@@ -2,7 +2,7 @@
 
 Passioné par le potentiel des technologies web, je tente d'apporter des solutions gratuite et open source à des problèmes qui font sens.
 
-### Projets en maintenance
+### Projets en maintenance
 
 #### [Troc.io](https://troc.io)
 
