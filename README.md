@@ -2,6 +2,19 @@
 
 Passionné par le potentiel des technologies web, je créer et je met en place des solutions open source à des problèmes écologique et sociaux.
 
+## Projet en développement
+
+### Fact
+
+Modelisation de flux de production
+
+Publique cible : `Entreprise`, `Artisant`, `Producteur`, `Consommateur attentif`
+
+- Offrir une transparance sur ses procesuss de fabrication au lieu d'un marketing classique
+- Pilotage logistique et qualité de la production (ERP)
+- Place de marché offrant une tracabilitée irréprochable et score de proximité, de bilan carbone et de qualité
+
+
 ## Projets en maintenance
 
 ### [Troc.io](https://troc.io)
@@ -12,8 +25,9 @@ Publique cible : `Association`, `Société sportive`
 
 - Proposition des articles par les particuliers avant l'évènement
 - Gestion des rôles caissier et commercant
-- Impression et scanner d'étiquettes
+- Impression et scannage d'étiquettes
 - Interface de caisse simple et complette (dépot, retrait, achat)
+- Administration ( statistique, corrections, gestion des membres )
 
 
 ### [Benev.io](https://benev.io)
