@@ -1,6 +1,6 @@
 ## He salut 👋
 
-Passioné par le potentiel des technologies web, je tente d'apporter des solutions gratuite et open source à des problèmes qui font sens.
+Passionné par le potentiel des technologies web, je tente d'apporter des solutions gratuites et open source à des problèmes qui ont du sens.
 
 ## Projets en maintenance
 
