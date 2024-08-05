@@ -8,7 +8,7 @@ Passionné par le potentiel des technologies web, je créer et je met en place d
 
 Modelisation de flux de production
 
-Publique cible : `Entreprise`, `Artisant`, `Producteur`, `Consommateur attentif`
+Publique cible : `Entreprise`, `Artisant`, `Consommateur attentif`
 
 - Offrir une transparance sur ses procesuss de fabrication au lieu d'un marketing classique
 - Pilotage logistique et qualité de la production (ERP)
