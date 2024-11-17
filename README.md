@@ -26,7 +26,7 @@ Publique cible : `Association`, `Société sportive`
 - Proposition des articles par les particuliers avant l'évènement
 - Gestion des rôles caissier et commercant
 - Impression et scannage d'étiquettes
-- Interface de caisse simple et complette (dépot, retrait, achat)
+- Interface de caisse simple et complète (dépot, retrait, achat)
 - Administration ( statistique, corrections, gestion des membres )
 
 
